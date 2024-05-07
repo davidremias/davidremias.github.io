@@ -1,12 +1,12 @@
 html {
   font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
   font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google Fonts */
-  margin: auto;
-  text-align: center;
 }
 
 body {
   color: green;
   width: 500px;
   border: 1px solid black;
+  margin: auto;
+  text-align: center;
 }
